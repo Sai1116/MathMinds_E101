@@ -1,1 +1,14 @@
+The White Box — Project Story
 
+For millions of gig workers, platforms decide what work they see, how much they earn, and when opportunities disappear — yet the logic behind these decisions remains invisible. Assignments change without explanation, pay fluctuates unpredictably, incentives appear and vanish, and long-term patterns quietly shift. This creates uncertainty, financial risk, and a power imbalance where workers must adapt to a system they cannot understand.
+
+The White Box is built to challenge this opacity.
+
+Instead of treating platform algorithms as untouchable black boxes, The White Box turns observable outcomes — trips, pay, time, location, and demand — into clear, interpretable insights. By analyzing patterns at the zone and time level, the system explains why certain areas offer more work, how pay is influenced by distance, traffic, and demand, and when platform behavior appears to change over time.
+
+The goal is not to reverse-engineer proprietary code, but to translate algorithmic behavior into human-understandable explanations.
+
+In The White Box, workers do not receive commands or prescriptions. They receive transparency.
+Green, yellow, and red zones visually communicate opportunity and risk. Simple explanations replace hidden rules. Detected shifts in behavior are flagged instead of silently absorbed. Over time, the system learns from logged outcomes, refining its explanations while remaining accountable and interpretable.
+
+By converting opaque decision-making into explainable signals, The White Box rebalances power — giving workers knowledge, predictability, and agency in systems designed without their visibility.
