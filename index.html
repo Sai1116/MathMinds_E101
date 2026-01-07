@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Gig Transparency Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <style>
+    body { margin: 0; font-family: Arial; }
+    #map { height: 100vh; }
+    .info {
+      position: absolute;
+      bottom: 20px;
+      left: 20px;
+      background: white;
+      padding: 12px;
+      border-radius: 8px;
+      width: 280px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    }
+  </style>
+</head>
+<body>
+
+<div id="map"></div>
+<div class="info" id="info">Click a zone</div>
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+<script>
+const map = L.map('map').setView([11.0168, 76.9558], 12);
+
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '© OpenStreetMap'
+}).addTo(map);
+
+fetch("/zones")
+  .then(res => res.json())
+  .then(zones => {
+    zones.forEach(z => {
+
+      const color =
+        z.assignment_level === "High" ? "green" :
+        z.assignment_level === "Medium" ? "orange" : "red";
+
+      const marker = L.circleMarker([z.lat, z.lng], {
+        radius: 10,
+        color: color,
+        fillOpacity: 0.8
+      }).addTo(map);
+
+      marker.on("click", () => {
+        document.getElementById("info").innerHTML = `
+          <b>Zone:</b> ${z.zone}<br>
+          <b>Assignment Level:</b> ${z.assignment_level}<br>
+          <b>Jobs Available:</b> ${z.jobs}
+        `;
+      });
+
+    });
+  })
+  .catch(err => {
+    console.error("Error loading zones:", err);
+  });
+</script>
