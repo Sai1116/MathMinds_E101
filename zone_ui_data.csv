@@ -1,7 +1,0 @@
-zone,avg_fare,min_fare,max_fare,incentive_rate,dominant_demand,assignment_level,incentive_likelihood,lat,lng,explanation
-Gandhipuram,65.78828220858895,41.84,200.77,0.11042944785276074,Low,Low,Low,11.017,76.967,"Demand is Low, resulting in Low task availability. Incentives are low."
-Peelamedu,64.06832335329341,41.16,143.36,0.09580838323353294,High,High,Low,11.029,77.021,"Demand is High, resulting in High task availability. Incentives are low."
-RS_Puram,66.02453488372093,40.6,171.13,0.0872093023255814,Low,Low,Low,11.01,76.947,"Demand is Low, resulting in Low task availability. Incentives are low."
-Saibaba_Colony,64.38546511627906,41.36,128.36,0.10465116279069768,High,High,Low,11.041,76.951,"Demand is High, resulting in High task availability. Incentives are low."
-Singanallur,64.32513157894736,41.68,119.08,0.09210526315789473,High,High,Low,11.0,77.03,"Demand is High, resulting in High task availability. Incentives are low."
-Ukkadam,66.46097701149425,41.28,146.71,0.10919540229885058,Low,Low,Low,10.99,76.962,"Demand is Low, resulting in Low task availability. Incentives are low."
