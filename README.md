@@ -1,2 +1,2 @@
-# mathminds_E101
+# javabu
 Solution of the problem statement from Hacktide-hackathon
