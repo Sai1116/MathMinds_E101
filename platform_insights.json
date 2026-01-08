@@ -1,0 +1,2822 @@
+{
+  "zones": [
+    {
+      "zone": 116,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 462.38,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 149,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 491.07,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 80,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 481.9,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 21,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 476.47,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 39,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 467.43,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 0,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 489.67,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 168,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 464.23,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 94,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 498.79,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 112,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 466.55,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 136,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 469.54,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 164,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 473.12,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 171,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 465.52,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 121,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 461.86,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 90,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 475.42,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 88,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 472.34,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 65,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 493.78,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 54,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 467.7,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 172,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 468.64,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 75,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 464.77,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 123,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 467.73,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 127,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 486.73,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 43,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 512.21,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 162,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 484.24,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 111,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 486.88,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 72,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 470.29,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 113,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 494.88,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 28,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 475.88,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 139,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 460.29,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 150,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 466.08,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 35,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 460.97,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 128,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 474.81,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 100,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 488.4,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 29,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 486.84,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 106,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 487.3,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 108,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 492.45,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 107,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 473.04,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 26,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 479.67,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 147,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 471.05,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 109,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 483.75,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 1,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 451.06,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 118,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 484.13,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 74,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 472.17,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 158,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 493.88,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 99,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 463.1,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 32,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 492.31,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 11,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 472.44,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 131,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 491.33,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 87,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 469.87,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 67,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 478.59,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 6,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 475.77,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 95,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 469.87,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 5,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 501.74,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 83,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 476.34,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 163,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 500.77,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 73,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 470.44,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 33,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 487.15,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 4,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 466.94,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 167,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 475.69,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 97,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 456.72,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 91,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 469.8,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 38,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 476.61,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 132,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 465.61,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 153,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 487.05,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 15,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 474.22,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 98,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 465.22,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 58,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 467.21,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 159,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 469.69,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 56,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 466.91,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 146,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 482.15,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 101,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 479.45,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 55,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 493.79,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 2,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 459.63,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 24,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 467.44,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 57,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 500.25,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 12,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 468.08,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 68,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 480.2,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 152,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 457.72,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 138,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 496.73,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 76,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 479.79,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 81,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 496.49,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 53,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 480.63,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 50,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 475.49,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 144,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 488.96,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 173,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 480.81,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 89,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 471.04,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 175,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 477.96,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 79,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 479.85,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 124,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 472.79,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 93,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 467.89,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 135,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 488.74,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 140,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 496.53,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 103,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 451.9,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 148,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 478.32,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 161,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 478.58,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 30,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 476.31,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 85,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 465.12,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 52,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 484.19,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 96,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 462.07,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 20,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 498.33,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 134,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 494.79,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 34,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 479.4,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 110,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 482.54,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 61,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 484.1,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 16,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 486.67,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 47,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 482.99,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 10,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 488.97,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 46,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 464.56,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 69,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 480.1,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 141,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 453.78,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 17,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 493.62,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 166,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 473.67,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 130,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 483.42,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 86,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 478.64,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 42,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 464.55,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 145,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 484.68,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 36,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 474.2,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 170,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 450.24,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 40,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 473.74,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 37,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 481.82,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 102,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 459.9,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 117,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 480.05,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 13,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 486.97,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 120,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 496.92,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 48,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 471.8,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 160,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 489.81,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 143,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 480.42,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 51,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 484.76,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 31,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 473.44,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 22,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 472.26,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 129,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 477.28,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 151,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 478.47,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 78,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 495.28,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 142,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 471.25,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 59,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 495.63,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 63,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 488.93,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 66,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 475.86,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 8,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 484.4,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 27,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 485.59,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 64,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 477.23,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 41,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 464.98,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 174,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 487.99,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 125,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 480.37,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 62,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 480.5,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 71,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 480.98,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 154,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 449.28,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 105,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 468.48,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 155,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 471.81,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 70,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 485.75,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 7,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 501.35,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 25,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 475.95,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 92,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 478.13,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 44,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 459.85,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 14,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 482.29,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 9,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 485.28,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 104,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 471.69,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 23,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 468.38,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 45,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 487.47,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 60,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 496.09,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 133,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 482.2,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 19,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 481.65,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 156,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 488.97,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 137,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 473.35,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 122,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 483.85,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 169,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 473.08,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 126,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 472.33,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 77,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 487.14,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 18,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 471.05,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 82,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 476.32,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 115,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 500.94,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 157,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 494.6,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 114,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 471.62,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 165,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 493.06,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 49,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 481.03,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 119,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 473.3,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 3,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 467.21,
+      "zone_status": "RED"
+    },
+    {
+      "zone": 84,
+      "assignment_probability": 0.0,
+      "assignment_class": "NEGLIGIBLE",
+      "incentive_probability": 0.0,
+      "incentive_class": "UNLIKELY",
+      "avg_pay": 469.1,
+      "zone_status": "RED"
+    }
+  ],
+  "fairness": [
+    {
+      "pickup_zone": 0,
+      "avg_pay": 489.6721132897604,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 22.539203107468268
+    },
+    {
+      "pickup_zone": 1,
+      "avg_pay": 451.06410256410254,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 61.1472138331261
+    },
+    {
+      "pickup_zone": 2,
+      "avg_pay": 459.63408820023835,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 52.57722819699029
+    },
+    {
+      "pickup_zone": 3,
+      "avg_pay": 467.2142038946163,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 44.99711250261237
+    },
+    {
+      "pickup_zone": 4,
+      "avg_pay": 466.9359720605355,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 45.27534433669314
+    },
+    {
+      "pickup_zone": 5,
+      "avg_pay": 501.7424789410349,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 10.46883745619374
+    },
+    {
+      "pickup_zone": 6,
+      "avg_pay": 475.76887340301977,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 36.442442994208875
+    },
+    {
+      "pickup_zone": 7,
+      "avg_pay": 501.34814814814814,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 10.863168249080502
+    },
+    {
+      "pickup_zone": 8,
+      "avg_pay": 484.40158371040724,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 27.809732686821405
+    },
+    {
+      "pickup_zone": 9,
+      "avg_pay": 485.27763819095475,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 26.933678206273896
+    },
+    {
+      "pickup_zone": 10,
+      "avg_pay": 488.97482837528605,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 23.23648802194259
+    },
+    {
+      "pickup_zone": 11,
+      "avg_pay": 472.4413793103448,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 39.76993708688383
+    },
+    {
+      "pickup_zone": 12,
+      "avg_pay": 468.0779220779221,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 44.13339431930655
+    },
+    {
+      "pickup_zone": 13,
+      "avg_pay": 486.9652551574376,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 25.24606123979106
+    },
+    {
+      "pickup_zone": 14,
+      "avg_pay": 482.2857142857143,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 29.925602111514365
+    },
+    {
+      "pickup_zone": 15,
+      "avg_pay": 474.21695760598504,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 37.9943587912436
+    },
+    {
+      "pickup_zone": 16,
+      "avg_pay": 486.6659619450317,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 25.545354452196932
+    },
+    {
+      "pickup_zone": 17,
+      "avg_pay": 493.61600928074245,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 18.595307116486197
+    },
+    {
+      "pickup_zone": 18,
+      "avg_pay": 471.0535931790499,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 41.15772321817872
+    },
+    {
+      "pickup_zone": 19,
+      "avg_pay": 481.65212264150944,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 30.559193755719207
+    },
+    {
+      "pickup_zone": 20,
+      "avg_pay": 498.3337195828505,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 13.877596814378137
+    },
+    {
+      "pickup_zone": 21,
+      "avg_pay": 476.4743742550655,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 35.736942142163116
+    },
+    {
+      "pickup_zone": 22,
+      "avg_pay": 472.262313860252,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 39.94900253697665
+    },
+    {
+      "pickup_zone": 23,
+      "avg_pay": 468.37819025522043,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 43.83312614200821
+    },
+    {
+      "pickup_zone": 24,
+      "avg_pay": 467.437876960193,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 44.77343943703562
+    },
+    {
+      "pickup_zone": 25,
+      "avg_pay": 475.94875,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 36.262566397228625
+    },
+    {
+      "pickup_zone": 26,
+      "avg_pay": 479.6651216685979,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 32.546194728630724
+    },
+    {
+      "pickup_zone": 27,
+      "avg_pay": 485.5890083632019,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 26.62230803402673
+    },
+    {
+      "pickup_zone": 28,
+      "avg_pay": 475.88194444444446,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 36.329371952784186
+    },
+    {
+      "pickup_zone": 29,
+      "avg_pay": 486.84143518518516,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 25.36988121204348
+    },
+    {
+      "pickup_zone": 30,
+      "avg_pay": 476.31353919239905,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 35.897777204829595
+    },
+    {
+      "pickup_zone": 31,
+      "avg_pay": 473.44379391100705,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 38.767522486221594
+    },
+    {
+      "pickup_zone": 32,
+      "avg_pay": 492.3134328358209,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 19.897883561407752
+    },
+    {
+      "pickup_zone": 33,
+      "avg_pay": 487.14642857142854,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 25.0648878258001
+    },
+    {
+      "pickup_zone": 34,
+      "avg_pay": 479.40371991247264,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 32.807596484756004
+    },
+    {
+      "pickup_zone": 35,
+      "avg_pay": 460.9663056558363,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 51.24501074139232
+    },
+    {
+      "pickup_zone": 36,
+      "avg_pay": 474.197247706422,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 38.01406869080665
+    },
+    {
+      "pickup_zone": 37,
+      "avg_pay": 481.81668625146887,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 30.394630145759777
+    },
+    {
+      "pickup_zone": 38,
+      "avg_pay": 476.6055684454756,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 35.60574795175302
+    },
+    {
+      "pickup_zone": 39,
+      "avg_pay": 467.4291139240506,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 44.78220247317802
+    },
+    {
+      "pickup_zone": 40,
+      "avg_pay": 473.73960880195597,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 38.471707595272676
+    },
+    {
+      "pickup_zone": 41,
+      "avg_pay": 464.98428053204356,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 47.22703586518509
+    },
+    {
+      "pickup_zone": 42,
+      "avg_pay": 464.54525139664804,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 47.6660650005806
+    },
+    {
+      "pickup_zone": 43,
+      "avg_pay": 512.2113163972286,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 0.0
+    },
+    {
+      "pickup_zone": 44,
+      "avg_pay": 459.8491686460808,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 52.36214775114786
+    },
+    {
+      "pickup_zone": 45,
+      "avg_pay": 487.4691780821918,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 24.74213831503687
+    },
+    {
+      "pickup_zone": 46,
+      "avg_pay": 464.56432038834953,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 47.646996008879114
+    },
+    {
+      "pickup_zone": 47,
+      "avg_pay": 482.9939686369119,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 29.217347760316727
+    },
+    {
+      "pickup_zone": 48,
+      "avg_pay": 471.8036809815951,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 40.407635415633536
+    },
+    {
+      "pickup_zone": 49,
+      "avg_pay": 481.0308219178082,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 31.180494479420418
+    },
+    {
+      "pickup_zone": 50,
+      "avg_pay": 475.4858823529412,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 36.725434044287454
+    },
+    {
+      "pickup_zone": 51,
+      "avg_pay": 484.7607934655776,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 27.45052293165105
+    },
+    {
+      "pickup_zone": 52,
+      "avg_pay": 484.19483568075117,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 28.016480716477474
+    },
+    {
+      "pickup_zone": 53,
+      "avg_pay": 480.6349397590362,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 31.57637663819247
+    },
+    {
+      "pickup_zone": 54,
+      "avg_pay": 467.6962457337884,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 44.51507066344027
+    },
+    {
+      "pickup_zone": 55,
+      "avg_pay": 493.79462102689484,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 18.416695370333798
+    },
+    {
+      "pickup_zone": 56,
+      "avg_pay": 466.9140435835351,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 45.29727281369355
+    },
+    {
+      "pickup_zone": 57,
+      "avg_pay": 500.25357142857143,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 11.95774496865721
+    },
+    {
+      "pickup_zone": 58,
+      "avg_pay": 467.2097735399285,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 45.00154285730014
+    },
+    {
+      "pickup_zone": 59,
+      "avg_pay": 495.63211845102506,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 16.57919794620358
+    },
+    {
+      "pickup_zone": 60,
+      "avg_pay": 496.0947012401353,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 16.11661515709335
+    },
+    {
+      "pickup_zone": 61,
+      "avg_pay": 484.10138248847926,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 28.109933908749383
+    },
+    {
+      "pickup_zone": 62,
+      "avg_pay": 480.5035128805621,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 31.70780351666656
+    },
+    {
+      "pickup_zone": 63,
+      "avg_pay": 488.9341176470588,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 23.277198750169816
+    },
+    {
+      "pickup_zone": 64,
+      "avg_pay": 477.2319004524887,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 34.97941594473997
+    },
+    {
+      "pickup_zone": 65,
+      "avg_pay": 493.7797408716137,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 18.43157552561496
+    },
+    {
+      "pickup_zone": 66,
+      "avg_pay": 475.85966981132077,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 36.35164658590787
+    },
+    {
+      "pickup_zone": 67,
+      "avg_pay": 478.59188275084557,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 33.61943364638307
+    },
+    {
+      "pickup_zone": 68,
+      "avg_pay": 480.1990291262136,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 32.012287271015055
+    },
+    {
+      "pickup_zone": 69,
+      "avg_pay": 480.1029411764706,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 32.108375220758035
+    },
+    {
+      "pickup_zone": 70,
+      "avg_pay": 485.7547393364929,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 26.456577060735754
+    },
+    {
+      "pickup_zone": 71,
+      "avg_pay": 480.9788293897883,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 31.23248700744034
+    },
+    {
+      "pickup_zone": 72,
+      "avg_pay": 470.2871508379888,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 41.92416555923984
+    },
+    {
+      "pickup_zone": 73,
+      "avg_pay": 470.4366028708134,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 41.77471352641527
+    },
+    {
+      "pickup_zone": 74,
+      "avg_pay": 472.1668584579977,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 40.04445793923094
+    },
+    {
+      "pickup_zone": 75,
+      "avg_pay": 464.7700598802395,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 47.44125651698914
+    },
+    {
+      "pickup_zone": 76,
+      "avg_pay": 479.7887828162291,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 32.42253358099953
+    },
+    {
+      "pickup_zone": 77,
+      "avg_pay": 487.14152046783624,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 25.0697959293924
+    },
+    {
+      "pickup_zone": 78,
+      "avg_pay": 495.2809248554913,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 16.930391541737322
+    },
+    {
+      "pickup_zone": 79,
+      "avg_pay": 479.8545673076923,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 32.35674908953632
+    },
+    {
+      "pickup_zone": 80,
+      "avg_pay": 481.89673340358274,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 30.3145829936459
+    },
+    {
+      "pickup_zone": 81,
+      "avg_pay": 496.4854368932039,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 15.72587950402476
+    },
+    {
+      "pickup_zone": 82,
+      "avg_pay": 476.3240628778718,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 35.88725351935682
+    },
+    {
+      "pickup_zone": 83,
+      "avg_pay": 476.34261501210653,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 35.86870138512211
+    },
+    {
+      "pickup_zone": 84,
+      "avg_pay": 469.10278113663844,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 43.1085352605902
+    },
+    {
+      "pickup_zone": 85,
+      "avg_pay": 465.12170639899625,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 47.08960999823239
+    },
+    {
+      "pickup_zone": 86,
+      "avg_pay": 478.64431818181816,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 33.56699821541048
+    },
+    {
+      "pickup_zone": 87,
+      "avg_pay": 469.86829268292684,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 42.34302371430181
+    },
+    {
+      "pickup_zone": 88,
+      "avg_pay": 472.3449401523395,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 39.866376244889125
+    },
+    {
+      "pickup_zone": 89,
+      "avg_pay": 471.0436363636364,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 41.16768003359226
+    },
+    {
+      "pickup_zone": 90,
+      "avg_pay": 475.42033898305084,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 36.7909774141778
+    },
+    {
+      "pickup_zone": 91,
+      "avg_pay": 469.795,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 42.41631639722863
+    },
+    {
+      "pickup_zone": 92,
+      "avg_pay": 478.13349514563106,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 34.077821251597584
+    },
+    {
+      "pickup_zone": 93,
+      "avg_pay": 467.89053591790196,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 44.320780479326686
+    },
+    {
+      "pickup_zone": 94,
+      "avg_pay": 498.786866359447,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 13.42445003778164
+    },
+    {
+      "pickup_zone": 95,
+      "avg_pay": 469.8705035971223,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 42.340812800106335
+    },
+    {
+      "pickup_zone": 96,
+      "avg_pay": 462.0743169398907,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 50.136999457337936
+    },
+    {
+      "pickup_zone": 97,
+      "avg_pay": 456.71741637831605,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 55.4939000189126
+    },
+    {
+      "pickup_zone": 98,
+      "avg_pay": 465.22169811320754,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 46.989618284021105
+    },
+    {
+      "pickup_zone": 99,
+      "avg_pay": 463.0973036342321,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 49.11401276299654
+    },
+    {
+      "pickup_zone": 100,
+      "avg_pay": 488.3975903614458,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 23.81372603578285
+    },
+    {
+      "pickup_zone": 101,
+      "avg_pay": 479.45153374233126,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 32.75978265489738
+    },
+    {
+      "pickup_zone": 102,
+      "avg_pay": 459.8998808104887,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 52.31143558673995
+    },
+    {
+      "pickup_zone": 103,
+      "avg_pay": 451.9022727272727,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 60.30904366995594
+    },
+    {
+      "pickup_zone": 104,
+      "avg_pay": 471.6858757062147,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 40.525440691013955
+    },
+    {
+      "pickup_zone": 105,
+      "avg_pay": 468.4831325301205,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 43.72818386710816
+    },
+    {
+      "pickup_zone": 106,
+      "avg_pay": 487.29852440408627,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 24.912791993142378
+    },
+    {
+      "pickup_zone": 107,
+      "avg_pay": 473.04368358913814,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 39.1676328080905
+    },
+    {
+      "pickup_zone": 108,
+      "avg_pay": 492.4527186761229,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 19.75859772110573
+    },
+    {
+      "pickup_zone": 109,
+      "avg_pay": 483.75332527206774,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 28.457991125160902
+    },
+    {
+      "pickup_zone": 110,
+      "avg_pay": 482.5413363533409,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 29.669980043887733
+    },
+    {
+      "pickup_zone": 111,
+      "avg_pay": 486.87859824780975,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 25.332718149418895
+    },
+    {
+      "pickup_zone": 112,
+      "avg_pay": 466.55395683453236,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 45.657359562696286
+    },
+    {
+      "pickup_zone": 113,
+      "avg_pay": 494.87545344619105,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 17.335862951037598
+    },
+    {
+      "pickup_zone": 114,
+      "avg_pay": 471.62205700123917,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 40.58925939598947
+    },
+    {
+      "pickup_zone": 115,
+      "avg_pay": 500.9430303030303,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 11.268286094198345
+    },
+    {
+      "pickup_zone": 116,
+      "avg_pay": 462.38141809290954,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 49.8298983043191
+    },
+    {
+      "pickup_zone": 117,
+      "avg_pay": 480.04680365296804,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 32.164512744260605
+    },
+    {
+      "pickup_zone": 118,
+      "avg_pay": 484.129300118624,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 28.08201627860467
+    },
+    {
+      "pickup_zone": 119,
+      "avg_pay": 473.3018181818182,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 38.90949821541045
+    },
+    {
+      "pickup_zone": 120,
+      "avg_pay": 496.9151047409041,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 15.296211656324544
+    },
+    {
+      "pickup_zone": 121,
+      "avg_pay": 461.864168618267,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 50.34714777896164
+    },
+    {
+      "pickup_zone": 122,
+      "avg_pay": 483.84785133565623,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 28.363465061572413
+    },
+    {
+      "pickup_zone": 123,
+      "avg_pay": 467.72972972972974,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 44.4815866674989
+    },
+    {
+      "pickup_zone": 124,
+      "avg_pay": 472.78913043478263,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 39.42218596244601
+    },
+    {
+      "pickup_zone": 125,
+      "avg_pay": 480.36538461538464,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 31.845931781844
+    },
+    {
+      "pickup_zone": 126,
+      "avg_pay": 472.3337209302326,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 39.87759546699607
+    },
+    {
+      "pickup_zone": 127,
+      "avg_pay": 486.7304147465438,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 25.48090165068487
+    },
+    {
+      "pickup_zone": 128,
+      "avg_pay": 474.8116646415553,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 37.39965175567335
+    },
+    {
+      "pickup_zone": 129,
+      "avg_pay": 477.2811764705882,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 34.930139926640436
+    },
+    {
+      "pickup_zone": 130,
+      "avg_pay": 483.4224852071006,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 28.788831190128064
+    },
+    {
+      "pickup_zone": 131,
+      "avg_pay": 491.3277108433735,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 20.883605553855148
+    },
+    {
+      "pickup_zone": 132,
+      "avg_pay": 465.6108597285068,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 46.60045666872185
+    },
+    {
+      "pickup_zone": 133,
+      "avg_pay": 482.19953051643193,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 30.011785880796708
+    },
+    {
+      "pickup_zone": 134,
+      "avg_pay": 494.7940813810111,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 17.417235016217546
+    },
+    {
+      "pickup_zone": 135,
+      "avg_pay": 488.73509174311926,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 23.476224654109387
+    },
+    {
+      "pickup_zone": 136,
+      "avg_pay": 469.5442739079103,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 42.66704248931836
+    },
+    {
+      "pickup_zone": 137,
+      "avg_pay": 473.34988452655887,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 38.861431870669776
+    },
+    {
+      "pickup_zone": 138,
+      "avg_pay": 496.73413173652693,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 15.47718466070171
+    },
+    {
+      "pickup_zone": 139,
+      "avg_pay": 460.2949816401469,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 51.916334757081756
+    },
+    {
+      "pickup_zone": 140,
+      "avg_pay": 496.5290023201856,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 15.682314077043031
+    },
+    {
+      "pickup_zone": 141,
+      "avg_pay": 453.7765843179377,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 58.43473207929094
+    },
+    {
+      "pickup_zone": 142,
+      "avg_pay": 471.25151883353584,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 40.9597975636928
+    },
+    {
+      "pickup_zone": 143,
+      "avg_pay": 480.42207053469855,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 31.789245862530095
+    },
+    {
+      "pickup_zone": 144,
+      "avg_pay": 488.9566744730679,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 23.25464192416075
+    },
+    {
+      "pickup_zone": 145,
+      "avg_pay": 484.67806603773585,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 27.533250359492797
+    },
+    {
+      "pickup_zone": 146,
+      "avg_pay": 482.15047393364927,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 30.060842463579377
+    },
+    {
+      "pickup_zone": 147,
+      "avg_pay": 471.0504807692308,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 41.16083562799787
+    },
+    {
+      "pickup_zone": 148,
+      "avg_pay": 478.3170731707317,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 33.89424322649694
+    },
+    {
+      "pickup_zone": 149,
+      "avg_pay": 491.07142857142856,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 21.139887825800088
+    },
+    {
+      "pickup_zone": 150,
+      "avg_pay": 466.07612456747404,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 46.1351918297546
+    },
+    {
+      "pickup_zone": 151,
+      "avg_pay": 478.4711111111111,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 33.74020528611754
+    },
+    {
+      "pickup_zone": 152,
+      "avg_pay": 457.72280701754386,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 54.488509379684785
+    },
+    {
+      "pickup_zone": 153,
+      "avg_pay": 487.0498812351544,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 25.16143516207427
+    },
+    {
+      "pickup_zone": 154,
+      "avg_pay": 449.2765460910152,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 62.934770306213466
+    },
+    {
+      "pickup_zone": 155,
+      "avg_pay": 471.81161137440756,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 40.39970502282108
+    },
+    {
+      "pickup_zone": 156,
+      "avg_pay": 488.967305524239,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 23.244010872989634
+    },
+    {
+      "pickup_zone": 157,
+      "avg_pay": 494.602787456446,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 17.608528940782662
+    },
+    {
+      "pickup_zone": 158,
+      "avg_pay": 493.87721369539554,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 18.334102701833103
+    },
+    {
+      "pickup_zone": 159,
+      "avg_pay": 469.6905882352941,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 42.52072816193453
+    },
+    {
+      "pickup_zone": 160,
+      "avg_pay": 489.8132733408324,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 22.39804305639626
+    },
+    {
+      "pickup_zone": 161,
+      "avg_pay": 478.57666666666665,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 33.63464973056199
+    },
+    {
+      "pickup_zone": 162,
+      "avg_pay": 484.2351543942993,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 27.976162002929357
+    },
+    {
+      "pickup_zone": 163,
+      "avg_pay": 500.76524741081704,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 11.446068986411603
+    },
+    {
+      "pickup_zone": 164,
+      "avg_pay": 473.1241050119332,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 39.08721138529546
+    },
+    {
+      "pickup_zone": 165,
+      "avg_pay": 493.0590858416945,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 19.152230555534118
+    },
+    {
+      "pickup_zone": 166,
+      "avg_pay": 473.67064439140813,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 38.54067200582051
+    },
+    {
+      "pickup_zone": 167,
+      "avg_pay": 475.6921212121212,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 36.519195185107435
+    },
+    {
+      "pickup_zone": 168,
+      "avg_pay": 464.2336018411968,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 47.977714556031856
+    },
+    {
+      "pickup_zone": 169,
+      "avg_pay": 473.08132875143184,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 39.1299876457968
+    },
+    {
+      "pickup_zone": 170,
+      "avg_pay": 450.2436974789916,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 61.967618918237065
+    },
+    {
+      "pickup_zone": 171,
+      "avg_pay": 465.5151515151515,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 46.69616488207714
+    },
+    {
+      "pickup_zone": 172,
+      "avg_pay": 468.636695018226,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 43.57462137900262
+    },
+    {
+      "pickup_zone": 173,
+      "avg_pay": 480.80558659217877,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 31.405729805049873
+    },
+    {
+      "pickup_zone": 174,
+      "avg_pay": 487.99401913875596,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 24.217297258472684
+    },
+    {
+      "pickup_zone": 175,
+      "avg_pay": 477.95631067961165,
+      "assignment_rate": 0.0,
+      "incentive_rate": 0.0,
+      "pay_gap_vs_best": 34.255005717616996
+    }
+  ]
+}
