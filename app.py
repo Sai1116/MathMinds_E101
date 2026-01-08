@@ -4,6 +4,9 @@ import pandas as pd
 import pydeck as pdk
 from datetime import datetime
 
+# =====================================================
+# APP CONFIG
+# =====================================================
 st.set_page_config(page_title="The White Box", layout="wide")
 
 # =====================================================
@@ -19,7 +22,7 @@ ZONE_COORDS = {
 }
 
 # =====================================================
-# SAFE JSON LOADER
+# LOAD PLATFORM DATA
 # =====================================================
 @st.cache_data
 def load_platform_data():
@@ -59,17 +62,17 @@ def zone_color_rgb(state):
 def explain_zone(row):
     text = []
     text.append(
-        f"Tasks are assigned at a "
-        f"{'high' if row.assignment_class==2 else 'medium' if row.assignment_class==1 else 'low'} rate."
+        f"Task assignment here is "
+        f"{'high' if row.assignment_class==2 else 'moderate' if row.assignment_class==1 else 'low'}."
     )
     text.append(
         f"Incentives appear "
-        f"{'frequently' if row.incentive_class==2 else 'occasionally' if row.incentive_class==1 else 'rarely'}."
+        f"{'frequently' if row.incentive_class==2 else 'sometimes' if row.incentive_class==1 else 'rarely'}."
     )
-    text.append(f"Average earnings here are ₹{row.avg_pay}.")
+    text.append(f"Average earnings are about ₹{row.avg_pay}.")
     if row.change_flag:
         text.append(
-            f"A recent platform behaviour change reduced earnings by "
+            f"A recent platform change reduced earnings by "
             f"{abs(row.pay_change_pct)}%."
         )
     if row.fairness_label == "Unfair":
@@ -77,45 +80,86 @@ def explain_zone(row):
     return " ".join(text)
 
 # =====================================================
-# LOGIN
+# 🌟 IMPROVED LOGIN PAGE
 # =====================================================
 if not st.session_state.logged_in:
-    st.title("🔓 Welcome to The White Box")
 
-    with st.form("login"):
-        name = st.text_input("Your name (optional)")
-        submit = st.form_submit_button("Enter")
+    col1, col2, col3 = st.columns([1, 2, 1])
 
-    if submit:
-        st.session_state.logged_in = True
-        st.rerun()
+    with col2:
+        st.markdown("<h2 style='text-align:center;'>🐧 The White Box</h2>", unsafe_allow_html=True)
+        st.markdown(
+            "<p style='text-align:center;'>Hi! I’m <b>Pingo</b> 🐧<br>"
+            "I help explain how delivery apps work — simply.</p>",
+            unsafe_allow_html=True
+        )
+
+        st.info(
+            "🔍 This is a transparency tool.\n\n"
+            "No real passwords.\n"
+            "No data tracking.\n"
+            "Just explanations."
+        )
+
+        with st.form("login_form"):
+            username = st.text_input("👤 Username")
+            password = st.text_input("🔑 Password", type="password")
+            submit = st.form_submit_button("Enter The White Box")
+
+        if submit:
+            if username.strip() == "" or password.strip() == "":
+                st.warning("Please enter both username and password.")
+            else:
+                st.session_state.logged_in = True
+                st.session_state.user_name = username
+                st.success(f"Welcome, {username}!")
+                st.rerun()
 
 # =====================================================
-# MAIN APP
+# MAIN APPLICATION (UNCHANGED)
 # =====================================================
 else:
     st.sidebar.title("The White Box")
+    st.sidebar.markdown(f"👋 Hi, **{st.session_state.user_name}**")
+
     page = st.sidebar.radio(
         "Navigate",
         [
-            "How Swiggy Works",
+            "How Delivery Apps Work",
             "Zone Map",
             "Zone Explanation",
             "Behind The White Box"
         ]
     )
 
-    # -------------------------------
-    if page == "How Swiggy Works":
-        st.title("🧠 How Swiggy Works (White Box View)")
-        st.markdown("""
-        Platforms combine **time, location, demand, traffic and history**.
-        Workers only see outcomes — not the logic.
+    if page == "How Delivery Apps Work":
+        st.title("🧠 How Delivery Apps Work (White Box View)")
 
-        **The White Box converts outcomes into explanations.**
+        st.code("""
+Customer Orders
+(time, location)
+        ↓
+Platform Context
+(demand, traffic, time)
+        ↓
+Hidden Assignment & Pricing Algorithm
+(black box)
+        ↓
+Observed Outcomes
+(orders, pay, incentives)
+        ↓
+THE WHITE BOX
+(pattern analysis & explanations)
+        ↓
+Worker-Friendly Insights
+(green / yellow / red zones)
         """)
 
-    # -------------------------------
+        st.info(
+            "The White Box does not access platform code. "
+            "It explains patterns in outcomes."
+        )
+
     elif page == "Zone Map":
         st.title("🗺️ Opportunity Map")
 
@@ -145,9 +189,6 @@ else:
             )
         )
 
-        st.info("🟢 Good • 🟡 Mixed • 🔴 Risky")
-
-    # -------------------------------
     elif page == "Zone Explanation":
         st.title("🔍 Zone Explanation")
 
@@ -161,35 +202,16 @@ else:
         c2.metric("Incentive Level", row.incentive_class)
         c3.metric("Avg Pay (₹)", row.avg_pay)
 
-        st.markdown("### What is happening here?")
         st.write(explain_zone(row))
 
-        st.markdown("### Fairness Assessment")
-        st.write(f"Fairness: **{row.fairness_label}**")
-        st.write(f"Pay gap vs best area: ₹{row.pay_gap_vs_best}")
-
-        if row.change_flag:
-            st.warning(
-                f"Platform change detected "
-                f"({row.pay_change_pct}% impact on earnings)"
-            )
-
-    # -------------------------------
     elif page == "Behind The White Box":
         st.title("🧠 Behind The White Box")
 
         st.markdown("""
-        **Algorithm Transparency**
-        - Explains how assignment, incentives and pay emerge from patterns
-
-        **Change Detection**
-        - Flags undocumented platform behaviour shifts
-
-        **Fairness Assessment**
-        - Compares earnings across areas
-
-        **Worker-Centred Reporting**
-        - Simple visuals and explanations, not commands
+        • Algorithm Transparency  
+        • Change Detection  
+        • Fairness Assessment  
+        • Worker-Centred Reporting  
         """)
 
         st.metric("Algorithm–Pay Influence Index (APAI)", APAI)
