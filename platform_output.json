@@ -1,0 +1,1234 @@
+[
+  {
+    "zone": 116,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 149,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 80,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 21,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 39,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 0,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 168,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 94,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 112,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 136,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 164,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 171,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 121,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 90,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 88,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 65,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 54,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 172,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 75,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 123,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 127,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 43,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 162,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 111,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 72,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 113,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 28,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 139,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 150,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 35,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 128,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 100,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 29,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 106,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 108,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 107,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 26,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 147,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 109,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 1,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 118,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 74,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 158,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 99,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 32,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 11,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 131,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 87,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 67,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 6,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 95,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 5,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 83,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 163,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 73,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 33,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 4,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 167,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 97,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 91,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 38,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 132,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 153,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 15,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 98,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 58,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 159,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 56,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 146,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 101,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 55,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 2,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 24,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 57,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 12,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 68,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 152,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 138,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 76,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 81,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 53,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 50,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 144,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 173,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 89,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 175,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 79,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 124,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 93,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 135,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 140,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 103,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 148,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 161,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 30,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 85,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 52,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 96,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 20,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 134,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 34,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 110,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 61,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 16,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 47,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 10,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 46,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 69,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 141,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 17,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 166,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 130,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 86,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 42,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 145,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 36,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 170,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 40,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 37,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 102,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 117,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 13,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 120,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 48,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 160,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 143,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 51,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 31,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 22,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 129,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 151,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 78,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 142,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 59,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 63,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 66,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 8,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 27,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 64,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 41,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 174,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 125,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 62,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 71,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 154,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 105,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 155,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 70,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 7,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 25,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 92,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 44,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 14,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 9,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 104,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 23,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 45,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 60,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 133,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 19,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 156,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 137,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 122,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 169,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 126,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 77,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 18,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 82,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 115,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 157,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 114,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 165,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 2,
+    "zone_state": 1
+  },
+  {
+    "zone": 49,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 119,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 1,
+    "zone_state": 0
+  },
+  {
+    "zone": 3,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  },
+  {
+    "zone": 84,
+    "assignment_class": 0,
+    "incentive_class": 0,
+    "fairness_class": 0,
+    "zone_state": 0
+  }
+]
