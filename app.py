@@ -1,211 +1,195 @@
 import streamlit as st
 import json
 import pandas as pd
+import pydeck as pdk
 from datetime import datetime
 
-# =========================================================
-# BASIC CONFIG
-# =========================================================
-st.set_page_config(
-    page_title="The White Box",
-    layout="wide"
-)
+st.set_page_config(page_title="The White Box", layout="wide")
 
-# =========================================================
-# LOAD ML OUTPUT (FROM YOUR EXISTING BACKEND)
-# =========================================================
+# =====================================================
+# ZONE COORDINATES (UI FALLBACK)
+# =====================================================
+ZONE_COORDS = {
+    "Gandhipuram": (11.0168, 76.9558),
+    "Peelamedu": (11.0232, 77.0020),
+    "RS_Puram": (11.0108, 76.9442),
+    "Saibaba_Colony": (11.0276, 76.9495),
+    "Ukkadam": (10.9916, 76.9629),
+    "Singanallur": (11.0000, 77.0280)
+}
+
+# =====================================================
+# SAFE JSON LOADER
+# =====================================================
 @st.cache_data
 def load_platform_data():
-    with open("platform_output.json", "r") as f:
-        return pd.DataFrame(json.load(f))
+    with open("platform_insights.json", "r") as f:
+        data = json.load(f)
 
-df = load_platform_data()
+    df = pd.DataFrame(data["zones"])
+    apai = data.get("APAI", None)
 
-# =========================================================
+    if "lat" not in df.columns:
+        df["lat"] = df["zone"].map(lambda z: ZONE_COORDS[z][0])
+        df["lon"] = df["zone"].map(lambda z: ZONE_COORDS[z][1])
+
+    return df, apai
+
+df, APAI = load_platform_data()
+
+# =====================================================
 # SESSION STATE
-# =========================================================
+# =====================================================
 if "logged_in" not in st.session_state:
     st.session_state.logged_in = False
 
-if "user_logs" not in st.session_state:
-    st.session_state.user_logs = []
-
-# =========================================================
-# HELPER FUNCTIONS
-# =========================================================
-def zone_color(state):
+# =====================================================
+# HELPERS
+# =====================================================
+def zone_color_text(state):
     return "🟢 Green" if state == 2 else "🟡 Yellow" if state == 1 else "🔴 Red"
 
-def simple_zone_reason(row):
-    reasons = []
-    if row.assignment_class == 0:
-        reasons.append("fewer orders appear here")
-    if row.incentive_class == 0:
-        reasons.append("incentives are rare")
-    if row.fairness_class == 0:
-        reasons.append("earnings are usually lower")
+def zone_color_rgb(state):
+    return (
+        [0, 180, 0, 160] if state == 2 else
+        [255, 200, 0, 160] if state == 1 else
+        [200, 0, 0, 160]
+    )
 
-    if not reasons:
-        return "This area generally offers stable opportunities."
+def explain_zone(row):
+    text = []
+    text.append(
+        f"Tasks are assigned at a "
+        f"{'high' if row.assignment_class==2 else 'medium' if row.assignment_class==1 else 'low'} rate."
+    )
+    text.append(
+        f"Incentives appear "
+        f"{'frequently' if row.incentive_class==2 else 'occasionally' if row.incentive_class==1 else 'rarely'}."
+    )
+    text.append(f"Average earnings here are ₹{row.avg_pay}.")
+    if row.change_flag:
+        text.append(
+            f"A recent platform behaviour change reduced earnings by "
+            f"{abs(row.pay_change_pct)}%."
+        )
+    if row.fairness_label == "Unfair":
+        text.append("Workers here earn significantly less than other areas.")
+    return " ".join(text)
 
-    return "This area feels slower because " + ", ".join(reasons) + "."
-
-# =========================================================
-# PAGE 1 — LOGIN
-# =========================================================
+# =====================================================
+# LOGIN
+# =====================================================
 if not st.session_state.logged_in:
-
     st.title("🔓 Welcome to The White Box")
-
-    st.markdown("""
-    **The White Box** helps explain how food-delivery platforms *seem* to work  
-    — using patterns, not guesses.
-
-    You don’t need technical knowledge.
-    """)
 
     with st.form("login"):
         name = st.text_input("Your name (optional)")
-        phone = st.text_input("Phone / Email (optional)")
         submit = st.form_submit_button("Enter")
 
     if submit:
         st.session_state.logged_in = True
-        st.session_state.user_name = name if name else "Guest"
         st.rerun()
 
-# =========================================================
-# MAIN APP (AFTER LOGIN)
-# =========================================================
+# =====================================================
+# MAIN APP
+# =====================================================
 else:
-
-    # -----------------------------------------------------
-    # SIDEBAR NAVIGATION
-    # -----------------------------------------------------
     st.sidebar.title("The White Box")
     page = st.sidebar.radio(
-        "Go to",
+        "Navigate",
         [
             "How Swiggy Works",
             "Zone Map",
             "Zone Explanation",
-            "Log Your Day"
+            "Behind The White Box"
         ]
     )
 
-    # =====================================================
-    # PAGE 2 — HOW SWIGGY WORKS (STORY FIRST)
-    # =====================================================
+    # -------------------------------
     if page == "How Swiggy Works":
-
-        st.title("🧠 How Swiggy Works (Simply Explained)")
-
+        st.title("🧠 How Swiggy Works (White Box View)")
         st.markdown("""
-        ### Step 1: People order food
-        Orders come in at different times and places.
+        Platforms combine **time, location, demand, traffic and history**.
+        Workers only see outcomes — not the logic.
 
-        ### Step 2: Delivery partners are spread unevenly
-        Some areas have many riders. Some don’t.
-
-        ### Step 3: The platform quietly matches everything
-        Time, distance, traffic, demand — all combined.
-
-        ### Step 4: You only see the result
-        Orders appear or don’t. Pay changes. Incentives come and go.
-
-        ---
-        ### ❓ The problem
-        You never see *why* these things happen.
-
-        ### ✅ The White Box
-        This tool looks at **patterns over time**  
-        and explains what *seems* to be happening.
+        **The White Box converts outcomes into explanations.**
         """)
 
-    # =====================================================
-    # PAGE 3 — ZONE MAP (VISUAL UNDERSTANDING)
-    # =====================================================
+    # -------------------------------
     elif page == "Zone Map":
+        st.title("🗺️ Opportunity Map")
 
-        st.title("🗺️ Area Overview")
+        map_df = df.copy()
+        map_df["color"] = map_df["zone_state"].apply(zone_color_rgb)
 
-        st.markdown("""
-        Each area is shown as:
-        - 🟢 **Green** → usually good flow
-        - 🟡 **Yellow** → mixed or unstable
-        - 🔴 **Red** → fewer orders or lower pay
-        """)
-
-        display_df = df.copy()
-        display_df["Status"] = display_df["zone_state"].apply(zone_color)
-
-        st.dataframe(
-            display_df[["zone", "Status"]],
-            use_container_width=True
+        layer = pdk.Layer(
+            "ScatterplotLayer",
+            data=map_df,
+            get_position="[lon, lat]",
+            get_color="color",
+            get_radius=700,
+            pickable=True
         )
 
-        st.info(
-            "These colors are based on past patterns — not live predictions."
+        view_state = pdk.ViewState(
+            latitude=map_df["lat"].mean(),
+            longitude=map_df["lon"].mean(),
+            zoom=12
         )
 
-    # =====================================================
-    # PAGE 4 — ZONE EXPLANATION (WHY THIS HAPPENS)
-    # =====================================================
+        st.pydeck_chart(
+            pdk.Deck(
+                layers=[layer],
+                initial_view_state=view_state,
+                tooltip={"html": "<b>{zone}</b><br/>₹{avg_pay}"}
+            )
+        )
+
+        st.info("🟢 Good • 🟡 Mixed • 🔴 Risky")
+
+    # -------------------------------
     elif page == "Zone Explanation":
+        st.title("🔍 Zone Explanation")
 
-        st.title("🔍 Why Does This Area Feel This Way?")
-
-        zone = st.selectbox(
-            "Choose an area",
-            sorted(df["zone"].unique())
-        )
-
+        zone = st.selectbox("Select area", sorted(df["zone"].unique()))
         row = df[df.zone == zone].iloc[0]
 
-        st.subheader(f"Area {zone} — {zone_color(row.zone_state)}")
+        st.subheader(f"{zone} — {zone_color_text(row.zone_state)}")
 
-        st.markdown("### What we observe:")
-        st.write(simple_zone_reason(row))
+        c1, c2, c3 = st.columns(3)
+        c1.metric("Assignment Level", row.assignment_class)
+        c2.metric("Incentive Level", row.incentive_class)
+        c3.metric("Avg Pay (₹)", row.avg_pay)
+
+        st.markdown("### What is happening here?")
+        st.write(explain_zone(row))
+
+        st.markdown("### Fairness Assessment")
+        st.write(f"Fairness: **{row.fairness_label}**")
+        st.write(f"Pay gap vs best area: ₹{row.pay_gap_vs_best}")
+
+        if row.change_flag:
+            st.warning(
+                f"Platform change detected "
+                f"({row.pay_change_pct}% impact on earnings)"
+            )
+
+    # -------------------------------
+    elif page == "Behind The White Box":
+        st.title("🧠 Behind The White Box")
 
         st.markdown("""
-        **Important**
-        - This is not Swiggy’s code.
-        - This is what the data *suggests* over time.
-        - Patterns can change.
+        **Algorithm Transparency**
+        - Explains how assignment, incentives and pay emerge from patterns
+
+        **Change Detection**
+        - Flags undocumented platform behaviour shifts
+
+        **Fairness Assessment**
+        - Compares earnings across areas
+
+        **Worker-Centred Reporting**
+        - Simple visuals and explanations, not commands
         """)
 
-    # =====================================================
-    # PAGE 5 — LOG YOUR DAY (FEEDBACK LOOP)
-    # =====================================================
-    elif page == "Log Your Day":
-
-        st.title("📒 Log Your Day")
-
-        st.markdown("""
-        Help improve explanations by sharing what happened today.
-        This does **not** affect orders.
-        """)
-
-        with st.form("log_form"):
-            zone = st.selectbox("Area worked", sorted(df["zone"].unique()))
-            hours = st.selectbox("Time period", ["Morning", "Afternoon", "Evening", "Night"])
-            orders = st.selectbox("Orders received", ["0", "1–3", "4–7", "8+"])
-            earnings = st.selectbox("Approx earnings", ["Low", "Medium", "High"])
-            feel = st.selectbox("How did today feel?", ["Bad", "Normal", "Good"])
-
-            submit = st.form_submit_button("Add Log")
-
-        if submit:
-            st.session_state.user_logs.append({
-                "time": str(datetime.now()),
-                "zone": zone,
-                "hours": hours,
-                "orders": orders,
-                "earnings": earnings,
-                "feel": feel
-            })
-            st.success("Thanks. Your experience has been recorded.")
-
-        if st.session_state.user_logs:
-            st.markdown("### Your past logs")
-            st.json(st.session_state.user_logs)
+        st.metric("Algorithm–Pay Influence Index (APAI)", APAI)
